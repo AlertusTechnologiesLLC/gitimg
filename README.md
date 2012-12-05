@@ -1,4 +1,4 @@
-gitimg ![gitimg](http://dev.gitimg.com:8080/views/gitimg/1.png)
+gitimg ![gitimg](https://www.gitimg.com/views/gitimg/1.png)
 ======
 
 
